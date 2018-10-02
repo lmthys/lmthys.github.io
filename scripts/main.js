@@ -1,9 +1,17 @@
 // Add your javascript here
 // Don't forget to add it into respective layouts where this js file is needed
-$('closet').on('click', function(e){
-	window.location("closet.html");
+function goToCloset(){
+	window.location.href = 'closet.html';
 }
-	
+function goToBitlocker(){
+	window.location.href = 'bitlocker.html';
+}
+function goToHealth(){
+	window.location.href = 'health.html';
+}
+function goToChild(){
+	window.location.href = 'child.html';
+}	
 
 $(document).ready(function() {
   AOS.init( {
@@ -45,3 +53,4 @@ $('a.smooth-scroll')
     }
   }
 });
+
