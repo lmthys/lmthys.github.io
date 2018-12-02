@@ -3131,11 +3131,11 @@ body {
   display: inline-flex;
 }
 
-.btn-twitter {
+.btn-linkedin {
   color: #55acee;
 }
 
-.btn-twitter:hover, .btn-twitter:focus, .btn-twitter:active {
+.btn-linkedin:hover, .btn-linkedin:focus, .btn-linkedin:active {
   color: #3ea1ec;
 }
 
@@ -7245,7 +7245,7 @@ Created using IcoMoon - icomoon.io
   color: #3b5998;
 }
 
-.cc-twitter:hover i {
+.cc-linkedin:hover i {
   color: #1da1f2;
 }
 
